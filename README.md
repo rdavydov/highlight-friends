@@ -1,6 +1,6 @@
 # highlight-friends
 
-*Highlight specific friends who play*
+***Steam Website** - Highlight specific friends who play*
 
 https://greasyfork.org/en/scripts/450409-highlight-specific-friends-who-play?locale_override=1
 
