@@ -1,6 +1,6 @@
 # highlight-friends
-![](https://img.shields.io/github/license/rdavydov/highlight-friends?style=for-the-badge&logo=github&color=purple&logoColor=green)
-![](https://img.shields.io/greasyfork/dt/450409?style=for-the-badge&logo=tampermonkey&color=blue&logoColor=orange)
+![](https://img.shields.io/github/license/rdavydov/highlight-friends?style=for-the-badge&logo=github&color=purple&logoColor=thistle)
+![](https://img.shields.io/greasyfork/dt/450409?style=for-the-badge&logo=tampermonkey&color=darkblue&logoColor=aquamarine)
 
 ***Steam Website** - Highlight specific friends who play*
 
